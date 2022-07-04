@@ -1,0 +1,9 @@
+fuzz-runs/
+*.vscode/
+src/*.o
+src/udhcpd-harness
+src/udhcpd-harness_asan
+src/udhcpd-mktestcase
+src/udhcpd-mktestcase_asan
+src/udhcpd
+src/udhcpd_asan
